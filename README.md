@@ -1,6 +1,6 @@
 # Trunkstar
 
-**Pre-release:** the hosted connection and public directory listings are being prepared. This repository contains the client integration package; a public repository is not evidence of an available hosted connection.
+The hosted MCP is live. Public directory listings are pending submission and publisher review. This repository contains the client integration package.
 
 Connect an existing Trunkstar portal to your AI client. Search business records and prepare customer, project, commercial, invoice, ticket and task actions. Available tools follow your account's roles, enabled features and portal type.
 
@@ -17,7 +17,8 @@ This package contains the portable manifest, the Claude-compatible manifest and 
 Install the client package from this repository with:
 
 ```text
-/plugin install trunkstar --marketplace Trunkstar/trunkstar-plugin
+claude plugin marketplace add Trunkstar/trunkstar-plugin
+claude plugin install trunkstar@trunkstar
 ```
 
-The hosted service must be available before you can connect. Directory listings are subject to their publishers’ review.
+Connect with your existing portal account. Directory listings remain subject to their publishers’ review.

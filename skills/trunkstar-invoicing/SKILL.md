@@ -5,7 +5,7 @@ description: Review Trunkstar invoices, prepare draft invoices and line changes,
 
 Use the available customer-invoice, invoice-product, tax-line, summary, and mail-history tools. Trunkstar subscription invoices have separate read capabilities. They are bills from Trunkstar to the connected account, rather than customer invoices; editing them is not supported.
 
-Retain each invoice's currency. Use Trunkstar-calculated subtotals, VAT, other taxes, totals, and balances. Keep currency groups separate; a customer's preferred currency does not convert an existing invoice. Free charges, unknown amounts, credits, and absent currencies have different meanings.
+Distinguish draft amounts from issued invoices and payment amounts due. Retain each invoice's currency. Use Trunkstar-calculated subtotals, VAT, other taxes, totals, and balances. Keep currency groups separate; a customer's preferred currency does not convert an existing invoice. Free charges, unknown amounts, credits, and absent currencies have different meanings.
 
 Business changes require a prepared proposal and the user's confirmation at its Trunkstar approval URL. Never operate the confirmation page for them. Inspect action status afterward. For dependent steps, create and confirm the draft header, obtain its ID, then prepare its lines and review the calculated totals.
 
