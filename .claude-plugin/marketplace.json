@@ -1,0 +1,15 @@
+{
+  "name": "trunkstar",
+  "owner": {
+    "name": "Trunkstar",
+    "url": "https://trunkstar.com"
+  },
+  "plugins": [
+    {
+      "name": "trunkstar",
+      "source": "./",
+      "description": "Trunkstar workflows with reviewed actions and invoicing."
+    }
+  ],
+  "description": "Trunkstar business workflows, invoicing and reviewed actions."
+}

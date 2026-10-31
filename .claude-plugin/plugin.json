@@ -1,0 +1,14 @@
+{
+  "name": "trunkstar",
+  "displayName": "Trunkstar",
+  "version": "0.2.0",
+  "description": "Search and manage Trunkstar workflows with reviewed actions.",
+  "author": {"name": "Trunkstar", "url": "https://trunkstar.com"},
+  "homepage": "https://mcp.trunkstar.com",
+  "keywords": ["trunkstar", "crm", "invoicing", "operations"],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://mcp.trunkstar.com",
+  "supportUrl": "https://mcp.trunkstar.com/support",
+  "privacyPolicyUrl": "https://mcp.trunkstar.com/privacy",
+  "termsOfServiceUrl": "https://mcp.trunkstar.com/terms"
+}
