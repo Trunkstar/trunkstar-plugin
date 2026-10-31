@@ -1,5 +1,5 @@
 {
   "mcpServers": {
-    "trunkstar": {"type": "http", "url": "https://mcp.trunkstar.com/mcp"}
+    "trunkstar": {"type": "http", "url": "https://mcp.eu1.trunkstar.com/mcp"}
   }
 }
