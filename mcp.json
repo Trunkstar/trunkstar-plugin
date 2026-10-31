@@ -3,13 +3,13 @@
   "mcpServers": {
     "trunkstar": {
       "type": "streamable-http",
-      "url": "https://mcp.trunkstar.com/mcp",
+      "url": "https://mcp.eu1.trunkstar.com/mcp",
       "extensions": {
         "com.openai": {
           "auth": {
             "type": "oauth",
             "client": { "mode": "dcr" },
-            "resource": "https://mcp.trunkstar.com/mcp",
+            "resource": "https://mcp.eu1.trunkstar.com/mcp",
             "baseScopes": ["trunkstar:read", "trunkstar:write"]
           }
         }

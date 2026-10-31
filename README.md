@@ -6,11 +6,11 @@ Connect an existing Trunkstar portal to your AI client. Search business records 
 
 Every business change starts with a proposal. Open its approval link, review the exact records, changes and effects, then confirm in Trunkstar. A chat confirmation does not execute a change. Invoice reviews use Trunkstar-calculated currencies, rounding, taxes and delivery details.
 
-The remote MCP endpoint is `https://mcp.trunkstar.com/mcp`, with OAuth discovery and dynamic client registration. Sign in using your portal hostname and existing account; enable changes during consent if needed. Never enter an API token or operator credential into a conversation.
+The remote MCP endpoint is `https://mcp.eu1.trunkstar.com/mcp`, with OAuth discovery and dynamic client registration. Sign in using your portal hostname and existing account; enable changes during consent if needed. Never enter an API token or operator credential into a conversation.
 
 This package contains the portable manifest, the Claude-compatible manifest and workflow skills. Public directory availability depends on publisher approval. The hosted backend is maintained separately.
 
-[Support](https://mcp.trunkstar.com/support) · [MCP privacy](https://mcp.trunkstar.com/privacy) · [Terms](https://mcp.trunkstar.com/terms) · [Trunkstar](https://trunkstar.com)
+[Support](https://mcp.eu1.trunkstar.com/support) · [MCP privacy](https://mcp.eu1.trunkstar.com/privacy) · [Terms](https://mcp.eu1.trunkstar.com/terms) · [Trunkstar](https://trunkstar.com)
 
 ## Claude Code installation
 

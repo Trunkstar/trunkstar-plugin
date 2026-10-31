@@ -7,7 +7,7 @@
     "name": "Trunkstar",
     "url": "https://trunkstar.com"
   },
-  "homepage": "https://mcp.trunkstar.com",
+  "homepage": "https://mcp.eu1.trunkstar.com",
   "keywords": [
     "trunkstar",
     "crm",
@@ -28,10 +28,10 @@
           "Review invoices and totals",
           "Manage customer workflows"
         ],
-        "websiteURL": "https://mcp.trunkstar.com",
-        "supportURL": "https://mcp.trunkstar.com/support",
-        "privacyPolicyURL": "https://mcp.trunkstar.com/privacy",
-        "termsOfServiceURL": "https://mcp.trunkstar.com/terms",
+        "websiteURL": "https://mcp.eu1.trunkstar.com",
+        "supportURL": "https://mcp.eu1.trunkstar.com/support",
+        "privacyPolicyURL": "https://mcp.eu1.trunkstar.com/privacy",
+        "termsOfServiceURL": "https://mcp.eu1.trunkstar.com/terms",
         "defaultPrompt": [
           "Find Acme and summarize its open work.",
           "Prepare an invoice adjustment and show the calculated totals.",
